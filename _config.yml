@@ -26,7 +26,11 @@ github_username:  dvergeylen
 
 # Build settings
 markdown: kramdown
+
+# Theme: keep minima theme and override defaults
+# See minima tree structure here: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 theme: minima
+
 gems:
   - jekyll-feed
 exclude:
