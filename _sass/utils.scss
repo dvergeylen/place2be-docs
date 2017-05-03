@@ -1,0 +1,62 @@
+.warning, .error {
+	background-color: #fffae2;
+	border: 2px solid #ffbd00;
+	padding: 1em;
+}
+
+.hidden, a.hidden {
+  display:none;
+}
+
+h5.hr_surround {
+  font: 1em sans-serif;
+  display: table;
+  white-space: nowrap;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+
+  &:before, &:after {
+    border-top: 1px solid green;
+    content: '';
+    display: table-cell;
+    position: relative;
+    top: 0.5em;
+    width: 45%;
+  }
+  &:before { right: 1.5%; }
+  &:after { left: 1.5%; }
+}
+
+input.reasonable_width {
+  max-width: 20em;
+}
+
+input.tiny-width {
+  max-width: 3em;
+}
+
+input.right-aligned {
+  text-align: right;
+}
+
+.vertically-aligned-elem,
+input.vertically-aligned-elem,
+a.vertically-aligned-elem,
+i.vertically-aligned-elem {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+td.vertically-aligned-td {
+  vertical-align: middle;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.green {
+  color: #009c00;
+}
