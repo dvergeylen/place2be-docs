@@ -1,5 +1,63 @@
+/* Header */
+.logo {
+  margin-left: 1em;
+	font-size: 2em;
+	font-weight: 500;
+  color: white;
+}
+
+/* Slides */
+.slide {
+  margin-top: 2em;
+  font-family: "OpenSans-Light";
+}
+
+.slide-tag {
+  margin-bottom: 1em;
+}
+
+.slide-image {
+  margin:auto;
+  max-width: 75%;
+}
+
+/* Slide 1: Left Titles */
+.intro-title {
+	font-weight: 400;
+	color: gold;
+	text-shadow: 2px 2px 3px rgba(104, 104, 104, 0.6);
+	margin-bottom: 1em;
+}
+
+.intro-subtitle {
+	max-width: 25em;
+	margin: auto auto 1em auto;
+}
+
+#developers-doc {
+  background-color: gold;
+}
+
+.hero.is-primary a.header-links {
+	font-weight: 600;
+	font-size: 1.3em;
+	padding: 1.2em;
+	color:white;
+}
+
+.hero-button {
+  margin: 0.5em;
+}
+
+/* Login Box */
 #login_box {
   max-width:25em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1#welcome {
+  text-align:center;
 }
 
 .login {
@@ -9,4 +67,25 @@
 
 .sign-in-github {
   text-align:center;
+}
+
+/* Slide 2 List */
+li.spaced {
+  margin-bottom: 1em;
+}
+
+/* Slide 3 ol */
+ol.slide-ol {
+  margin:auto;
+  width:90%;
+  ul li:before {
+    content: "- ";
+  }
+}
+
+/* Footer */
+.footer {
+  color: white;
+  font-size: 0.9em;
+  font-family: "OpenSans-Light";
 }

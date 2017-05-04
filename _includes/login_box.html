@@ -1,0 +1,97 @@
+<div id="login_box" class="box">
+  <div>
+    <p class="field sign-in-github">
+      <a class="button is-medium" href="http://localhost:3000/auth/github">
+        <span class="icon is-medium">
+          <i class="fa fa-github"></i>
+        </span>
+        <span>Sign in with GitHub</span>
+      </a>
+    </p>
+    <h5 class="hr_surround">OR</h5>
+
+    <form id="authentication_form" action="http://localhost:3000/auth/identity/callback" accept-charset="UTF-8" method="post">
+      <input name="utf8" type="hidden" value="&#x2713;" />
+      <div id="auth_failed" class="hidden warning content">
+        Invalid Email or Password
+      </div>
+      <div class="field login">
+        <p class="control has-icon">
+          <input type="email" name="auth_key" id="auth_key" placeholder="Email" class="input reasonable_width" />
+          <span class="icon is-small">
+            <i class="fa fa-envelope"></i>
+          </span>
+        </p>
+      </div>
+      <div class="field login">
+        <p class="control has-icon">
+          <input type="password" name="password" id="password" placeholder="Password" class="input reasonable_width" />
+          <span class="icon is-small">
+            <i class="fa fa-lock"></i>
+          </span>
+        </p>
+      </div>
+      <div class="field is-grouped login">
+        <p class="control">
+          <input type="submit" name="commit" value="Login" data-disable-with="Login" class="button is-primary" />
+        </p>
+        <p class="control">
+          <a id="registerBtn" class="button is-primary is-outlined" href="javascript:void(0)">Create an account</a>
+        </p>
+      </div>
+    </form>
+    <form id="registration_form" class="hidden" action="http://localhost:3000/auth/identity/register" accept-charset="UTF-8" method="post">
+      <input name="utf8" type="hidden" value="&#x2713;" />
+      <div id="registration_failed" class="hidden content warning">
+        <p class="help">You must at least provide a name, an e-mail address and a password</p>
+        <ul>
+          <li>Name must be at least 3 characters</li>
+          <li>Email must be a valid e-mail address</li>
+          <li>Password must be at least 8 characters</li>
+          <li>Password and confirmation must match</li>
+        </ul>
+      </div>
+      <div class="field login">
+        <p class="control has-icon">
+          <input type="text" name="name" id="name" placeholder="Name" class="input reasonable_width" />
+          <span class="icon is-small">
+            <i class="fa fa-user"></i>
+          </span>
+        </p>
+      </div>
+      <div class="field login">
+        <p class="control has-icon">
+          <input type="email" name="email" id="email" placeholder="Email" class="input reasonable_width" />
+          <span class="icon is-small">
+            <i class="fa fa-envelope"></i>
+          </span>
+        </p>
+      </div>
+      <div class="field login">
+        <p class="control has-icon">
+          <input type="password" name="password" id="password" placeholder="Password" class="input reasonable_width" />
+          <span class="icon is-small">
+            <i class="fa fa-lock"></i>
+          </span>
+        </p>
+      </div>
+      <div class="field login">
+        <p class="control has-icon">
+          <input type="password" name="password_confirmation" id="password_confirmation" placeholder="Password Confirmation" class="input reasonable_width" />
+          <span class="icon is-small">
+            <i class="fa fa-lock"></i>
+          </span>
+        </p>
+      </div>
+      <div class="field is-grouped login">
+        <p class="control">
+          <input type="submit" name="commit" value="Register" data-disable-with="Login" class="button is-primary" />
+        </p>
+        <p class="control">
+          <a id="authenticateBtn" class="button is-primary is-outlined" href="javascript:void(0)">Login</a>
+        </p>
+      </div>
+    </form>
+  </div>
+</div>
+

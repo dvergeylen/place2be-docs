@@ -1,4 +1,103 @@
 ---
 layout: default
 ---
-<h1>Hello WOrld</h1>
+<!-- Slide 1 -->
+<section class="hero is-primary is-medium blue-ocean">
+  <!-- Hero header: will stick at the top -->
+  <div class="hero-head">
+    {% include nav_bar.html %}
+  </div>
+
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body">
+    <div class="centered-container columns">
+      <div class="column is-6 has-text-centered">
+        {% include title.html %}
+      </div>
+      <div class="column is-5 is-offset-1">
+        <h1 id="welcome" class="title is-1">Welcome</h1>
+        {% include login_box.html %}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- Slide 2 -->
+<div class="centered-container slide columns is-vcentered">
+  <div class="column is-5 is-offset-1">
+    <span class="tag is-primary is-medium slide-tag ">In a Nutshell</span>
+    <h4 class="title is-4">Place2Be is a Service that <i>integrates</i> in background of your existing front-ends (apps, websites, ...)</h4>
+    <ul class="fa-ul">
+      <li class="spaced"><i class="fa-li fa fa-sitemap"></i>You define Gamification Schemes and receive API keys.
+      <p><a>Our Doc</a> contains <a>Tutorials</a> to help you getting started, or you can even start from a template.</p></li>
+      <li class="spaced"><i class="fa-li fa fa-exchange"></i>Your front-ends connect to P2B and report player actions.</li>
+      <li class="spaced"><i class="fa-li fa fa-line-chart"></i>Players are instantly notified of the progress they make accross the Schemes.</li>
+      <li class="spaced"><i class="fa-li fa fa-bar-chart"></i>Aggregated analytics are sent in <strong>realtime</strong> to connected players to monitor (other) players progress.
+        <p>You decide what is <strong>aggregated</strong> and what is <strong>sent</strong> to players. See <a>Live Metrics Doc</a></p></li>
+      <li class="spaced"><i class="fa-li fa fa-expand"></i><strong>Large scale</strong> Gamification Schemes are supported. Up to hundreds of thousands of Players concurrently, in teams or as individuals, from simple to complex mechanics.</li>
+    </ul>
+  </div>
+  <div class="column is-5 is-offset-1">
+    <figure class="image">
+      <img src="/assets/images/gamification_scheme.png" alt="Gamification scheme">
+    </figure>
+  </div>
+</div>
+
+
+<hr>
+
+
+<!-- Slide 3 -->
+<div class="centered-container slide columns is-vcentered">
+  <div class="column is-5 is-offset-1">
+    <figure class="image">
+      <img src="/assets/images/p2b-cloud.svg" alt="Place2Be Cloud" class="slide-image">
+    </figure>
+  </div>
+  <div class="column is-5 is-offset-1">
+    <span class="tag is-primary is-medium slide-tag">How does it work?</span>
+    <h4 class="title is-4">Configuration via GUI - Interaction via API</h4>
+    <ol class="slide-ol">
+      <li class="spaced">Scheme creation and configuration are done via Place2Be.io website</li>
+      <li class="spaced">New or Updated schemes are instantly available in the could.
+        <ul>
+          <li><i><strong>No</strong> propagation delay</i></li>
+          <li><i><strong>No</strong> programming skills needed</i></li>
+        </ul>
+      </li>
+      <li class="spaced">Clients connect to it via websockets.
+        <ul>
+          <li><i>Plain standard, <strong>no</strong> extra library needed</i></li>
+          <li><i>No upper bound on requests per period of time</i></li>
+        </ul>
+      </li>
+    </ol>
+  </div>
+</div>
+
+
+<hr>
+
+
+<!-- Slide 4 -->
+<div class="centered-container slide columns is-vcentered">
+  <div class="column is-5 is-offset-1">
+    <span class="tag is-primary is-medium slide-tag ">Pricing</span>
+    <h4 class="title is-4">Free for most users approach</h4>
+    <ul class="fa-ul">
+      <li class="spaced"><i class="fa-li fa fa-check-circle primary"></i>Free without use limitation as longas your Gamification scheme remains Open Source (ala Github).</li>
+      <li class="spaced"><i class="fa-li fa fa-check-circle primary"></i>Open-Sourcing (default) means unauthenticated requests are also accepted to interact with your scheme, which should suit open projects but wouldn't for companies setting large scale campaigns (→ <a>Contact us</a>).</li>
+      <li class="spaced"><i class="fa-li fa fa-check-circle primary"></i>Quality-of-Service is ensured for Premium Customers</li>
+    </ul>
+    <p><a>Contact us</a> for more information on pricing and offers.</p>
+  </div>
+  <div class="column is-5 is-offset-1">
+    <figure class="image">
+      <img src="/assets/images/p2b-pricing.png" alt="Gamification scheme" class="slide-image">
+    </figure>
+  </div>
+</div>
