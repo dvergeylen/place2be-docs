@@ -1,26 +1,41 @@
-<header class="nav">
-  <div class="container">
-    <div class="nav-left">
-      <a class="nav-item">
-        <img src="{{ site.baseurl }}/assets/images/p2b-mono.svg" alt="Place2Be">
-        <span class="logo">Place2Be.io</span>
-      </a>
-    </div>
-    <span class="nav-toggle">
-      <span></span>
-      <span></span>
-      <span></span>
+<nav class="panel">
+  <p class="panel-heading">
+    General
+  </p>
+  <a class="panel-block {% if page.title == true %} is-active {% endif %}" href="{{ site.baseurl }}/blog">
+    <span class="panel-icon">
+      <i class="fa fa-bullhorn"></i>
     </span>
-    <div class="nav-right nav-menu">
-      <a class="nav-item header-links">
-        Docs
-      </a>
-      <a class="nav-item header-links">
-        Pricing
-      </a>
-      <a class="nav-item header-links">
-        Blog
-      </a>
-    </div>
-  </div>
-</header>
+    Blog
+  </a>
+  <p class="panel-heading">
+    Getting Started
+  </p>
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fa fa-book"></i>
+    </span>
+    Hello World Gamification Scheme
+  </a>
+  <a class="panel-block">
+    <span class="panel-icon">
+      <i class="fa fa-book"></i>
+    </span>
+    Getting Started in 10 minutes with the API
+  </a>
+  <a class="panel-block {% if page.title == 'live_metrics' %} is-active {% endif %}" href="{{ site.baseurl }}/getting_started/live_metrics.html">
+    <span class="panel-icon">
+      <i class="fa fa-book"></i>
+    </span>
+    Live Metrics
+  </a>
+  <p class="panel-heading">
+    Tutorials / How to's
+  </p>
+  <a class="panel-block {% if page.title == 'beginner_fan_engagement' %} is-active {% endif %}" href="{{ site.baseurl }}/tutorials/beginner_fan_engagement.html">
+    <span class="panel-icon">
+      <i class="fa fa-book"></i>
+    </span>
+    Beginner: Fan Engagement
+  </a>
+</nav>
