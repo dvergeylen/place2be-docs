@@ -115,7 +115,17 @@ td.vertically-aligned-td {
   background: $darkest_primary;
 }
 
+.white,
+a.white {
+  color: white;
+}
+
 hr {
   max-width: 75%;
   margin: auto;
+}
+
+.top-bar {
+  margin-bottom: 1em;
+  background: #00547c;
 }
