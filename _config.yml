@@ -28,6 +28,7 @@ markdown: kramdown
 # Theme: keep minima theme and override defaults
 # See minima tree structure here: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 theme: minima
+permalink: pretty
 
 gems:
   - jekyll-feed
