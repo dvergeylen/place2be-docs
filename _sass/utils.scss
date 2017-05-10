@@ -48,6 +48,19 @@
   display:none;
 }
 
+.post-content {
+  font-size: 1.2em;
+  font-family: "Open Sans";
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  h1 {
+    margin-top: 1em;
+  }
+}
+
 h5.hr_surround {
   font: 1em sans-serif;
   color: black;
