@@ -1,5 +1,6 @@
 ---
 layout: home
+title: blog
 ---
 
 {% for post in site.posts %}
