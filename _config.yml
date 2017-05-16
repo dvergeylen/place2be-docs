@@ -24,6 +24,7 @@ github_username:  dvergeylen
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 # Theme: keep minima theme and override defaults
 # See minima tree structure here: https://jekyllrb.com/docs/themes/#overriding-theme-defaults

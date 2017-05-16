@@ -22,3 +22,9 @@ $p2b_gold: #fed72d;
 /* Custom CSS */
 @import "login";
 @import "utils";
+
+/* Syntax Highlighting 'Native' theme */
+pre.highlight {
+  background: whitesmoke;
+}
+@import "github";
