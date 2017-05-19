@@ -2,7 +2,13 @@
   <p class="panel-heading">
     General
   </p>
-  <a class="panel-block {% if page.title == blog %} is-active {% endif %}" href="{{ site.baseurl }}/blog">
+  <a class="panel-block {% if page.title == 'index' %} is-active {% endif %}" href="{{ site.baseurl }}/">
+    <span class="panel-icon">
+      <i class="fa fa-home"></i>
+    </span>
+    Home
+  </a>
+  <a class="panel-block {% if page.title == 'blog' %} is-active {% endif %}" href="{{ site.baseurl }}/blog">
     <span class="panel-icon">
       <i class="fa fa-bullhorn"></i>
     </span>

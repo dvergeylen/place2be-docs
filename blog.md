@@ -1,6 +1,7 @@
 ---
 layout: home
 title: blog
+nice_title: P2B - Blog
 ---
 
 {% for post in site.posts %}
