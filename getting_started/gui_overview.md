@@ -64,7 +64,7 @@ nice_title: P2B - Quick Start Gamification Scheme
   <p>Once done, you should see something like this:</p>
   <figure class="image has-text-centered figure-printscreen">
     <img class="is-hcentered is-large" src="{{ site.baseurl }}/assets/images/gui_overview/new_condition_created.png" alt=""/>
-    <figcaption class="is-hcentered">Fig5. - A new empty Condition Set.</figcaption>
+    <figcaption class="is-hcentered">Fig5. - Condition Set containing one Condition. You can update the minimal number of conditions to be validated by players when activating for the entire Condition Set to become valid.</figcaption>
   </figure>
   <p><strong>Congrats!</strong> This means your Activable will now only be activable during the defined period of time. You can of course add other time slot (other saturdays or longer periods), even overlapping ones (although probably less relevant).</p>
   <p>Notice the "Minimum 1/X" sentence, meaning that at least 1 among the specified conditions must be valid for the entire Condition Set to become valid. If you have added other (non overlapping) time slots to the Condition Set you will probably let this value set to 1, as you only care if a player is giving support to his/her football team during a valid period whichever it is. If, however, you combine with conditions of other types (like min. time interval or so) you might probably want to update this value. This is when things are becoming interesting and is explained in detail in the other sections.</p>
