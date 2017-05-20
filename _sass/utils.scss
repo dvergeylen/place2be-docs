@@ -48,6 +48,12 @@
   display:none;
 }
 
+.is-hcentered {
+ margin-right: auto;
+  margin-left: auto;
+}
+
+
 .post-content {
   font-size: 1.2em;
   font-family: "OpenSans-Light";
@@ -59,6 +65,36 @@
   h1 {
     margin-top: 1em;
   }
+}
+
+.doc-content {
+  font-size: 1em;
+  font-family: "OpenSans-Light";
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  h1 {
+    margin-top: 1em;
+  }
+
+  figure.figure-printscreen {
+  margin-bottom: 2em;
+  margin-top: 2em;
+
+  img {
+    max-width:25em;
+  }
+  img.is-large {
+    max-width:35em;
+  }
+  figcaption {
+    max-width:25em;
+    font-size:0.9em;
+    font-style:italic;
+  }
+}
 }
 
 h5.hr_surround {
