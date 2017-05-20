@@ -17,17 +17,17 @@
   <p class="panel-heading">
     Getting Started
   </p>
-  <a class="panel-block">
+  <a class="panel-block {% if page.title == 'gui_overview' %} is-active {% endif %}" href="{{ site.baseurl }}/getting_started/gui_overview">
     <span class="panel-icon">
-      <i class="fa fa-book"></i>
+      <i class="fa fa-rocket"></i>
     </span>
-    Hello World Gamification Scheme
+    Quick Start Gamification Scheme
   </a>
-  <a class="panel-block">
+  <a class="panel-block {% if page.title == 'api_overview' %} is-active {% endif %}" href="{{ site.baseurl }}/getting_started/api_overview">
     <span class="panel-icon">
-      <i class="fa fa-book"></i>
+      <i class="fa fa-rocket"></i>
     </span>
-    Getting Started in 10 minutes with the API
+    Quick Start API
   </a>
   <a class="panel-block {% if page.title == 'live_metrics' %} is-active {% endif %}" href="{{ site.baseurl }}/getting_started/live_metrics">
     <span class="panel-icon">
