@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="868.55756"
+   viewBox="0 0 1500 868.55758"
+   id="svg3374"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="what-the-heck-is-Saas-01.svg">
+  <metadata
+     id="metadata3382">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3380">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8698"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8610"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8116"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8118"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4613"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6055"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6057"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4622"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="SemiCircleOut"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="SemiCircleOut"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4658"
+         d="m -2.5,-0.80913858 c 0,2.75999998 -2.24,4.99999998 -5,4.99999998 l 0,-10 c 2.76,0 5,2.24 5,5.00000002 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.6,0,0,0.6,4.2752958,0.4580676)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4619"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4480"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8255">
+      <path
+         d="m 0,1489.156 1842.17,0 L 1842.17,0 0,0 0,1489.156 Z"
+         id="path8257"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-1-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-2-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-9-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-6-32"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-1-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-2-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-9-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-6-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-1-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-2-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-9-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8608-6-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8610-1-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8696-2-74"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8698-9-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6-7-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2-8-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6-7-8-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2-8-8-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6-7-8-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2-8-8-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6-7-8-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4622-2-8-8-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="1963"
+     id="namedview3378"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="698.55257"
+     inkscape:cy="444.73413"
+     inkscape:window-x="0"
+     inkscape:window-y="70"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3374"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="m 1104.883,458.82 q 0,71.2426 -50.4074,121.6501 -50.4075,50.4075 -121.65008,50.4075 l -487.49633,0 q -82.89229,0 -141.81304,-58.9208 -58.92074,-58.9207 -58.92074,-141.813 0,-59.1448 31.81272,-108.2081 31.81272,-49.0633 83.78843,-73.2588 -0.89613,-12.5459 -0.89613,-19.2669 0,-94.9901 67.20997,-162.2001 Q 493.72037,0 588.71047,0 q 70.7945,0 128.37104,39.4298 57.57655,39.4299 84.01247,103.0553 31.36465,-27.7801 74.37903,-27.7801 47.49505,0 81.10003,33.605 33.60499,33.6049 33.60499,81.1 0,33.605 -18.37073,61.8332 57.8006,13.442 95.4382,60.2649 37.6375,46.823 37.6375,107.3119 z"
+     id="path3376"
+     style="fill:#c5d7e9;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 421.01528,523.7003 58.77578,0 0,-7.347 -58.77578,0 0,7.347 z m 0,-29.3879 58.77578,0 0,-7.3469 -58.77578,0 0,7.3469 z m 90.00042,25.7144 q 0,-2.2959 -1.60713,-3.9031 -1.60717,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.2959 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29589,0 3.90306,-1.6071 1.60713,-1.6072 1.60713,-3.9031 z m -90.00042,-55.1023 58.77578,0 0,-7.347 -58.77578,0 0,7.347 z m 90.00042,25.7144 q 0,-2.2959 -1.60713,-3.9031 -1.60717,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.296 1.60712,3.9031 1.60717,1.6072 3.90311,1.6072 2.29589,0 3.90306,-1.6072 1.60713,-1.6071 1.60713,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60713,-3.903 -1.60717,-1.6072 -3.90306,-1.6072 -2.29594,0 -3.90311,1.6072 -1.60712,1.6071 -1.60712,3.903 0,2.296 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29589,0 3.90306,-1.6071 1.60713,-1.6071 1.60713,-3.9031 z m 5.51023,47.7553 0,22.041 -102.85762,0 0,-22.041 102.85762,0 z m 0,-29.3878 0,22.0409 -102.85762,0 0,-22.0409 102.85762,0 z m 0,-29.3879 0,22.0409 -102.85762,0 0,-22.0409 102.85762,0 z"
+     id="path3405"
+     style="fill:#4a5c70;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 560.77666,523.7003 58.77579,0 0,-7.347 -58.77579,0 0,7.347 z m 0,-29.3879 58.77579,0 0,-7.3469 -58.77579,0 0,7.3469 z m 90.00042,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.2959 1.60717,3.9031 1.60712,1.6071 3.90306,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m -90.00042,-55.1023 58.77579,0 0,-7.347 -58.77579,0 0,7.347 z m 90.00042,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.296 1.60717,3.9031 1.60712,1.6072 3.90306,1.6072 2.29594,0 3.90306,-1.6072 1.60717,-1.6071 1.60717,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60717,-3.903 -1.60712,-1.6072 -3.90306,-1.6072 -2.29594,0 -3.90306,1.6072 -1.60717,1.6071 -1.60717,3.903 0,2.296 1.60717,3.9031 1.60712,1.6071 3.90306,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6071 1.60717,-3.9031 z m 5.51024,47.7553 0,22.041 -102.85765,0 0,-22.041 102.85765,0 z m 0,-29.3878 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z m 0,-29.3879 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z"
+     id="path3405-3"
+     style="fill:#4a5c70;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 700.538,523.7003 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 0,-29.3879 58.77584,0 0,-7.3469 -58.77584,0 0,7.3469 z m 90.00052,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60717,-1.6071 -3.90307,-1.6071 -2.29593,0 -3.9031,1.6071 -1.60713,1.6072 -1.60713,3.9031 0,2.2959 1.60713,3.9031 1.60717,1.6071 3.9031,1.6071 2.2959,0 3.90307,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m -90.00052,-55.1023 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 90.00052,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60717,-1.6071 -3.90307,-1.6071 -2.29593,0 -3.9031,1.6071 -1.60713,1.6072 -1.60713,3.9031 0,2.296 1.60713,3.9031 1.60717,1.6072 3.9031,1.6072 2.2959,0 3.90307,-1.6072 1.60717,-1.6071 1.60717,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60717,-3.903 -1.60717,-1.6072 -3.90307,-1.6072 -2.29593,0 -3.9031,1.6072 -1.60713,1.6071 -1.60713,3.903 0,2.296 1.60713,3.9031 1.60717,1.6071 3.9031,1.6071 2.2959,0 3.90307,-1.6071 1.60717,-1.6071 1.60717,-3.9031 z m 5.51023,47.7553 0,22.041 -102.85774,0 0,-22.041 102.85774,0 z m 0,-29.3878 0,22.0409 -102.85774,0 0,-22.0409 102.85774,0 z m 0,-29.3879 0,22.0409 -102.85774,0 0,-22.0409 102.85774,0 z"
+     id="path3405-6"
+     style="fill:#4a5c70;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 840.29944,523.7003 58.77579,0 0,-7.347 -58.77579,0 0,7.347 z m 0,-29.3879 58.77579,0 0,-7.3469 -58.77579,0 0,7.3469 z m 90.00042,25.7144 q 0,-2.2959 -1.60712,-3.9031 -1.60717,-1.6071 -3.90311,-1.6071 -2.29594,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.2959 1.60717,3.9031 1.60712,1.6071 3.90306,1.6071 2.29594,0 3.90311,-1.6071 1.60712,-1.6072 1.60712,-3.9031 z m -90.00042,-55.1023 58.77579,0 0,-7.347 -58.77579,0 0,7.347 z m 90.00042,25.7144 q 0,-2.2959 -1.60712,-3.9031 -1.60717,-1.6071 -3.90311,-1.6071 -2.29594,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.296 1.60717,3.9031 1.60712,1.6072 3.90306,1.6072 2.29594,0 3.90311,-1.6072 1.60712,-1.6071 1.60712,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60712,-3.903 -1.60717,-1.6072 -3.90311,-1.6072 -2.29594,0 -3.90306,1.6072 -1.60717,1.6071 -1.60717,3.903 0,2.296 1.60717,3.9031 1.60712,1.6071 3.90306,1.6071 2.29594,0 3.90311,-1.6071 1.60712,-1.6071 1.60712,-3.9031 z m 5.51023,47.7553 0,22.041 -102.85765,0 0,-22.041 102.85765,0 z m 0,-29.3878 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z m 0,-29.3879 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z"
+     id="path3405-62"
+     style="fill:#4a5c70;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a5c70;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="969.12042"
+     y="531.0473"
+     id="text3473"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan3475"
+       x="969.12042"
+       y="531.0473"
+       style="font-size:33.60498428px;fill:#4a5c70;fill-opacity:1">...</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a5c70;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="348.31192"
+     y="531.0473"
+     id="text3473-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan3475-1"
+       x="348.31192"
+       y="531.0473"
+       style="font-size:33.60498428px;fill:#4a5c70;fill-opacity:1">...</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 550.24159,279.3003 58.77579,0 0,-7.347 -58.77579,0 0,7.347 z m 0,-29.3879 58.77579,0 0,-7.3469 -58.77579,0 0,7.3469 z m 90.00042,25.7144 q 0,-2.2959 -1.60712,-3.9031 -1.60717,-1.6071 -3.90311,-1.6071 -2.29589,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.2959 1.60717,3.9031 1.60717,1.6071 3.90306,1.6071 2.29594,0 3.90311,-1.6071 1.60712,-1.6072 1.60712,-3.9031 z m -90.00042,-55.1023 58.77579,0 0,-7.347 -58.77579,0 0,7.347 z m 90.00042,25.7144 q 0,-2.2959 -1.60712,-3.9031 -1.60717,-1.6071 -3.90311,-1.6071 -2.29589,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.296 1.60717,3.9031 1.60717,1.6072 3.90306,1.6072 2.29594,0 3.90311,-1.6072 1.60712,-1.6071 1.60712,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60712,-3.9031 -1.60717,-1.6071 -3.90311,-1.6071 -2.29589,0 -3.90306,1.6071 -1.60717,1.6072 -1.60717,3.9031 0,2.2959 1.60717,3.9031 1.60717,1.6071 3.90306,1.6071 2.29594,0 3.90311,-1.6071 1.60712,-1.6072 1.60712,-3.9031 z m 5.51023,47.7553 0,22.041 -102.85765,0 0,-22.041 102.85765,0 z m 0,-29.3878 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z m 0,-29.3879 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z"
+     id="path3405-5"
+     style="fill:#959595;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 520.62815,299.0426 58.7758,0 0,-7.347 -58.7758,0 0,7.347 z m 0,-29.3879 58.7758,0 0,-7.347 -58.7758,0 0,7.347 z m 90.00043,25.7144 q 0,-2.2959 -1.60713,-3.9031 -1.60716,-1.6072 -3.90306,-1.6072 -2.29593,0 -3.9031,1.6072 -1.60713,1.6072 -1.60713,3.9031 0,2.2959 1.60713,3.9031 1.60717,1.6071 3.9031,1.6071 2.2959,0 3.90306,-1.6071 1.60713,-1.6072 1.60713,-3.9031 z m -90.00043,-55.1023 58.7758,0 0,-7.347 -58.7758,0 0,7.347 z m 90.00043,25.7144 q 0,-2.2959 -1.60713,-3.9031 -1.60716,-1.6071 -3.90306,-1.6071 -2.29593,0 -3.9031,1.6071 -1.60713,1.6072 -1.60713,3.9031 0,2.2959 1.60713,3.9031 1.60717,1.6071 3.9031,1.6071 2.2959,0 3.90306,-1.6071 1.60713,-1.6072 1.60713,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60713,-3.9031 -1.60716,-1.6071 -3.90306,-1.6071 -2.29593,0 -3.9031,1.6071 -1.60713,1.6072 -1.60713,3.9031 0,2.2959 1.60713,3.9031 1.60717,1.6071 3.9031,1.6071 2.2959,0 3.90306,-1.6071 1.60713,-1.6072 1.60713,-3.9031 z m 5.51023,47.7553 0,22.0409 -102.8576,0 0,-22.0409 102.8576,0 z m 0,-29.3879 0,22.041 -102.8576,0 0,-22.041 102.8576,0 z m 0,-29.3878 0,22.0409 -102.8576,0 0,-22.0409 102.8576,0 z"
+     id="path3405-7"
+     style="fill:#4a5c70;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 740.68655,279.3003 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 0,-29.3879 58.77584,0 0,-7.3469 -58.77584,0 0,7.3469 z m 90.00047,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.2959 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m -90.00047,-55.1023 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 90.00047,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.296 1.60712,3.9031 1.60717,1.6072 3.90311,1.6072 2.29594,0 3.90306,-1.6072 1.60717,-1.6071 1.60717,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.2959 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m 5.51023,47.7553 0,22.041 -102.85765,0 0,-22.041 102.85765,0 z m 0,-29.3878 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z m 0,-29.3879 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z"
+     id="path3405-5-7"
+     style="fill:#959595;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 711.07312,299.0426 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 0,-29.3879 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 90.00047,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6072 -3.90306,-1.6072 -2.29594,0 -3.90311,1.6072 -1.60712,1.6072 -1.60712,3.9031 0,2.2959 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m -90.00047,-55.1023 58.77584,0 0,-7.347 -58.77584,0 0,7.347 z m 90.00047,25.7144 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.2959 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m 0,-29.3879 q 0,-2.2959 -1.60717,-3.9031 -1.60712,-1.6071 -3.90306,-1.6071 -2.29594,0 -3.90311,1.6071 -1.60712,1.6072 -1.60712,3.9031 0,2.2959 1.60712,3.9031 1.60717,1.6071 3.90311,1.6071 2.29594,0 3.90306,-1.6071 1.60717,-1.6072 1.60717,-3.9031 z m 5.51023,47.7553 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z m 0,-29.3879 0,22.041 -102.85765,0 0,-22.041 102.85765,0 z m 0,-29.3878 0,22.0409 -102.85765,0 0,-22.0409 102.85765,0 z"
+     id="path3405-7-0"
+     style="fill:#4a5c70;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 135.20569,362.158 0,-58.2763 q 0,-0.9106 -0.66542,-1.576 -0.66542,-0.6654 -1.57598,-0.6654 l -112.069812,0 q -0.910565,0 -1.575984,0.6654 -0.665419,0.6654 -0.665419,1.576 l 0,58.2763 q 0,0.9106 0.665419,1.576 0.665419,0.6654 1.575984,0.6654 l 112.069812,0 q 0.91056,0 1.57598,-0.6654 0.66542,-0.6654 0.66542,-1.576 z m 8.96558,-58.2763 0,76.2075 q 0,4.6229 -3.29205,7.9149 -3.29205,3.2921 -7.91493,3.2921 l -38.103742,0 q 0,2.5916 1.120704,5.4284 1.120695,2.8367 2.241394,4.973 1.120695,2.1364 1.120695,3.047 0,1.8211 -1.330824,3.1519 -1.330834,1.3309 -3.151969,1.3309 l -35.862349,0 q -1.821126,0 -3.151964,-1.3309 -1.330802,-1.3308 -1.330802,-3.1519 0,-0.9807 1.120681,-3.0819 1.120686,-2.1014 2.241404,-4.9031 1.120681,-2.8018 1.120681,-5.4634 l -38.103721,0 q -4.622872,0 -7.914942,-3.2921 -3.2920337,-3.292 -3.2920337,-7.9149 l 0,-76.2075 q 0,-4.6229 3.2920337,-7.9149 3.29207,-3.2921 7.914942,-3.2921 l 112.069812,0 q 4.62288,0 7.91493,3.2921 3.29205,3.292 3.29205,7.9149 z"
+     id="path3575"
+     style="fill:#565656;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:2.68839884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM);marker-end:url(#marker6055)"
+     d="m 415.19478,553.6059 512.76254,0"
+     id="path6053"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40.64037323px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1166.1106"
+     y="498.70047"
+     id="text7951"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7953"
+       x="1166.1106"
+       y="498.70047"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1">Gamification Processing</tspan><tspan
+       sodipodi:role="line"
+       x="1166.1106"
+       y="533.70575"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1"
+       id="tspan23521">Servers</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1164.9347"
+     y="306.16824"
+     id="text7951-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7953-2"
+       x="1164.9347"
+       y="306.16824"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1">Databases Servers</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1164.9347"
+     y="225.96097"
+     id="text7973"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7975"
+       x="1164.9347"
+       y="225.96097"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1">Backup Servers</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#565656;stroke-width:2.68839884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8116)"
+     d="m 606.86522,194.4071 c 59.86917,-28.9352 118.72118,-27.863 176.665,0"
+     id="path8108"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="617.45154"
+     y="165.06619"
+     id="text7973-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7975-5"
+       x="617.45154"
+       y="165.06619"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1">Redundancy</tspan></text>
+  <g
+     transform="matrix(0.09026825,0,0,-0.09026825,437.31012,184.4541)"
+     id="g8251"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088">
+    <g
+       id="g8253"
+       clip-path="url(#clipPath8255)">
+      <g
+         id="g8259"
+         transform="translate(1002.694,732.4116)">
+        <path
+           d="m 0,0 0,-122.339 243.853,0 0,-121.525 -365.367,0 0,61.181 0,60.344 0,76.029 0,107.468 c 0,16.544 6.053,30.858 18.182,42.987 11.572,11.571 25.897,17.357 42.987,17.357 l 182.684,0 0,122.339 -122.339,0 0,-45.45 -121.514,0 0,106.631 c 0,16.521 6.053,30.858 18.182,42.987 11.572,11.572 25.897,17.358 42.987,17.358 l 243.853,0 c 16.533,0 30.858,-5.786 42.987,-17.358 11.572,-12.129 17.358,-26.466 17.358,-42.987 l 0,-243.864 c 0,-17.079 -5.786,-31.694 -17.358,-43.801 C 214.366,5.786 200.041,0 183.508,0 L 0,0 Z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8261"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8263"
+         transform="translate(637.3157,875.4074)">
+        <path
+           d="m 0,0 0,-21.493 -122.338,0 0,122.338 L 0,100.845 0,0 Z M 104.156,205.013 C 92.027,216.585 77.703,222.371 61.17,222.371 l -183.508,0 -35.25,0 -86.265,0 0,-91.342 0,-30.184 0,-122.338 0,-121.503 0,-142.182 0,-101.682 121.515,0 0,243.864 183.508,0 c 16.533,0 30.857,5.786 42.986,17.358 11.572,12.106 17.359,26.722 17.359,43.8 l 0,243.864 c 0,16.522 -5.787,30.859 -17.359,42.987"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8265"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8267"
+         transform="translate(1615.2465,609.9423)">
+        <path
+           d="m 0,0 -122.338,0 0,122.338 L 0,122.338 0,100.845 0,0 Z m 121.515,-61.181 0,243.864 c 0,17.078 -5.787,31.695 -17.359,43.8 -12.129,11.572 -26.453,17.358 -42.986,17.358 l -183.508,0 0,243.864 -121.515,0 0,-101.682 0,-142.182 0,-121.503 0,-122.338 0,-30.184 0,-91.342 86.265,0 35.25,0 183.508,0 c 16.533,0 30.857,5.786 42.986,17.358 11.572,12.128 17.359,26.465 17.359,42.987"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8269"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8271"
+         transform="translate(833.1663,375.9117)">
+        <path
+           d="m 0,0 15.374,0 0,2.696 0,12.678 L 0,15.374 0,0 Z m 30.649,23.062 0,-30.649 c 0,-2.145 -0.73,-3.983 -2.185,-5.506 -1.523,-1.459 -3.322,-2.181 -5.402,-2.181 l -23.062,0 0,-30.649 -15.274,0 0,12.779 0,17.87 0,15.274 0,15.374 0,15.275 15.274,0 23.062,0 c 2.08,0 3.879,-0.73 5.402,-2.189 1.455,-1.523 2.185,-3.318 2.185,-5.398"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8273"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8275"
+         transform="translate(925.1121,345.2631)">
+        <path
+           d="m 0,0 0,-15.274 -30.649,0 -11.43,0 -3.844,0 0,47.896 0,28.675 15.274,0 L -30.649,0 0,0 Z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8277"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8279"
+         transform="translate(971.135,375.9117)">
+        <path
+           d="m 0,0 0,2.696 0,12.678 -15.374,0 L -15.374,0 0,0 Z m 15.274,-45.923 -15.274,0 0,30.649 -15.374,0 0,-30.649 -15.275,0 0,25.972 0,17.87 0,25.143 c 0,2.08 0.762,3.875 2.285,5.398 1.455,1.459 3.257,2.189 5.403,2.189 l 30.648,0 c 2.081,0 3.88,-0.73 5.403,-2.189 1.455,-1.523 2.184,-3.318 2.184,-5.398 l 0,-68.985 z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8281"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8283"
+         transform="translate(1032.4323,383.5988)">
+        <path
+           d="m 0,0 0,7.687 -15.374,0 0,-46.023 15.374,0 0,7.687 15.274,0 0,-15.274 c 0,-2.145 -0.729,-3.947 -2.184,-5.406 -1.523,-1.523 -3.322,-2.281 -5.403,-2.281 l -30.648,0 c -2.146,0 -3.948,0.758 -5.403,2.281 -1.523,1.459 -2.285,3.261 -2.285,5.406 l 0,23.062 0,15.796 0,22.439 c 0,2.081 0.762,3.876 2.285,5.399 1.455,1.459 3.257,2.188 5.403,2.188 l 30.648,0 c 2.081,0 3.88,-0.729 5.403,-2.188 1.455,-1.523 2.184,-3.318 2.184,-5.399 L 15.274,0 0,0 Z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8285"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8287"
+         transform="translate(1078.3586,391.286)">
+        <path
+           d="m 0,0 0,-15.374 23.062,0 0,-15.275 -23.062,0 0,-15.374 30.649,0 0,-15.274 -30.649,0 -15.274,0 0,15.274 0,9.039 0,6.335 0,15.275 0,15.374 0,15.274 15.274,0 30.649,0 L 30.649,0 0,0 Z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8289"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8291"
+         transform="translate(1139.6559,360.6374)">
+        <path
+           d="m 0,0 0,-15.374 30.649,0 0,-15.275 -45.923,0 0,7.688 0,7.587 0,9.553 0,13.508 c 0,2.081 0.761,3.876 2.284,5.399 1.456,1.459 3.258,2.188 5.403,2.188 l 22.961,0 0,15.375 -15.374,0 0,-5.714 -15.274,0 0,13.401 c 0,2.081 0.761,3.876 2.284,5.399 1.456,1.458 3.258,2.188 5.403,2.188 l 30.649,0 c 2.08,0 3.879,-0.73 5.402,-2.188 1.455,-1.523 2.185,-3.318 2.185,-5.399 l 0,-30.649 c 0,-2.145 -0.73,-3.983 -2.185,-5.506 C 26.941,0.722 25.142,0 23.062,0 L 0,0 Z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8293"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8295"
+         transform="translate(1200.953,345.2631)">
+        <path
+           d="m 0,0 15.374,0 0,2.696 0,12.678 L 0,15.374 0,0 Z m 0,30.649 15.374,0 0,2.695 0,12.679 -15.374,0 0,-15.374 z m 23.062,-7.587 c 2.08,0 3.879,-0.766 5.402,-2.289 1.455,-1.451 2.185,-3.253 2.185,-5.399 l 0,-22.961 c 0,-2.145 -0.73,-3.947 -2.185,-5.406 -1.523,-1.523 -3.322,-2.281 -5.402,-2.281 l -23.062,0 -15.274,0 0,15.274 0,15.374 0,15.275 0,6.435 0,8.939 0,15.274 15.274,0 23.062,0 c 2.08,0 3.879,-0.729 5.402,-2.188 1.455,-1.523 2.185,-3.318 2.185,-5.399 l 0,-23.061 c 0,-2.081 -0.73,-3.883 -2.185,-5.406 -1.523,-1.452 -3.322,-2.181 -5.402,-2.181"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8297"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8299"
+         transform="translate(1262.2502,391.286)">
+        <path
+           d="m 0,0 0,-15.374 23.062,0 0,-15.275 -23.062,0 0,-15.374 30.649,0 0,-15.274 -30.649,0 -15.274,0 0,15.274 0,9.039 0,6.335 0,15.275 0,15.374 0,15.274 15.274,0 30.649,0 L 30.649,0 0,0 Z"
+           style="fill:#2a2b2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8301"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8303"
+         transform="translate(253.0581,1196.3654)">
+        <path
+           d="M 0,0 17.457,-35.372 56.493,-41.044 28.246,-68.578 34.914,-107.455 0,-89.1 l -34.914,-18.355 6.668,38.877 -28.247,27.534 39.036,5.672 L 0,0 Z"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8305"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8307"
+         transform="translate(964.6262,207.9269)">
+        <path
+           d="m 0,0 c -11.238,0 -20.348,9.11 -20.348,20.348 0,11.238 9.11,20.347 20.348,20.347 11.238,0 20.348,-9.109 20.348,-20.347 C 20.348,9.11 11.238,0 0,0 m 43.221,31.876 0.013,0.034 c -0.021,0.067 -0.055,0.12 -0.076,0.184 -0.414,1.194 -0.907,2.292 -1.401,3.391 -3.396,7.521 -8.983,12.667 -13.03,15.541 l 0.048,0.089 c -0.345,0.235 -0.731,0.371 -1.082,0.595 -2.175,1.445 -3.738,2.226 -3.738,2.226 l -0.16,-0.082 c -7.914,3.954 -16.63,5.519 -23.951,5.519 -18.411,0 -46.043,-8.962 -46.043,-44.815 0,-17.925 36.838,-67.488 46.043,-85.413 9.205,17.925 46.043,67.488 46.043,85.413 0,6.679 -0.987,12.392 -2.666,17.318"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8309"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8311"
+         transform="translate(159.4002,988.6624)">
+        <path
+           d="m 0,0 c 0,0 0,38.689 40.699,23.113 0,0 51.753,37.684 53.261,-27.133 0,0 34.669,-36.679 -10.552,-50.748 l -83.408,0 c 0,0 -33.413,11.808 -23.364,36.177 C -13.315,5.778 0,0 0,0"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8313"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8315"
+         transform="translate(1012.8065,1158.6924)">
+        <path
+           d="m 0,0 -20.006,0 0,57.217 76.823,0 L 56.817,0 22.407,0 0.4,-17.605 0,0 Z"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8317"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8319"
+         transform="translate(808.9969,1329.2633)">
+        <path
+           d="M 0,0 0,-101.974 71.76,-50.987 0,0 Z"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8321"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8323"
+         transform="translate(516.7012,1191.3196)">
+        <path
+           d="m 0,0 c -12.48,0 -22.598,10.118 -22.598,22.598 0,12.48 10.118,22.597 22.598,22.597 12.48,0 22.598,-10.117 22.598,-22.597 C 22.598,10.118 12.48,0 0,0 m 38.318,60.424 -10.317,17.194 -56.494,0 -7.86,-17.194 -27.51,-0.491 0,-79.092 127.726,0 0,79.583 -25.545,0 z"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8325"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 365.702,307.497 -71.026,0 0,89.25 71.026,0 0,-89.25 z M 330.189,292.7 c -2.967,0 -5.373,2.406 -5.373,5.374 0,2.967 2.406,5.374 5.373,5.374 2.968,0 5.374,-2.407 5.374,-5.374 0,-2.968 -2.406,-5.374 -5.374,-5.374 m -46.728,-5.763 93.456,0 0,119.623 -93.456,0 0,-119.623 z"
+         style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path8327"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g8329"
+         transform="translate(557.2715,340.2626)">
+        <path
+           d="M 0,0 C 0,21.348 17.306,38.653 38.653,38.653 60,38.653 77.306,21.348 77.306,0 77.306,-21.347 60,-38.653 38.653,-38.653 17.306,-38.653 0,-21.347 0,0 m 105.392,-60.505 -29.551,29.55 C 82.834,-22.564 87.048,-11.777 87.048,0 87.048,26.728 65.381,48.395 38.653,48.395 11.925,48.395 -9.742,26.728 -9.742,0 c 0,-26.728 21.667,-48.395 48.395,-48.395 11.213,0 21.507,3.849 29.712,10.25 l 29.694,-29.693 c 1.472,-1.473 3.86,-1.473 5.333,0 l 2,2 c 1.472,1.473 1.472,3.86 0,5.333"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8331"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8333"
+         transform="translate(253.0581,787.9213)">
+        <path
+           d="m 0,0 c -5.06,0 -9.162,4.102 -9.162,9.162 0,5.06 4.102,9.162 9.162,9.162 5.06,0 9.162,-4.102 9.162,-9.162 C 9.162,4.102 5.06,0 0,0 m 0,32.984 c -13.157,0 -23.822,-10.665 -23.822,-23.822 0,-13.156 10.665,-23.822 23.822,-23.822 13.157,0 23.822,10.666 23.822,23.822 0,13.157 -10.665,23.822 -23.822,23.822"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8335"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8337"
+         transform="translate(492.7628,240.7874)">
+        <path
+           d="m 0,0 c -5.06,0 -9.162,4.102 -9.162,9.162 0,5.06 4.102,9.162 9.162,9.162 5.06,0 9.162,-4.102 9.162,-9.162 C 9.162,4.102 5.06,0 0,0 m 0,32.984 c -13.157,0 -23.822,-10.665 -23.822,-23.822 0,-13.156 10.665,-23.822 23.822,-23.822 13.157,0 23.822,10.666 23.822,23.822 0,13.157 -10.665,23.822 -23.822,23.822"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8339"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8341"
+         transform="translate(684.9492,1349.4668)">
+        <path
+           d="m 0,0 c -5.06,0 -9.162,4.102 -9.162,9.162 0,5.06 4.102,9.162 9.162,9.162 5.06,0 9.162,-4.102 9.162,-9.162 C 9.162,4.102 5.06,0 0,0 m 0,32.984 c -13.157,0 -23.822,-10.665 -23.822,-23.822 0,-13.157 10.665,-23.822 23.822,-23.822 13.157,0 23.822,10.665 23.822,23.822 0,13.157 -10.665,23.822 -23.822,23.822"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8343"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8345"
+         transform="translate(810.0195,211.3298)">
+        <path
+           d="m 0,0 c -5.06,0 -9.162,4.102 -9.162,9.162 0,5.06 4.102,9.162 9.162,9.162 5.06,0 9.162,-4.102 9.162,-9.162 C 9.162,4.102 5.06,0 0,0 m 0,32.984 c -13.157,0 -23.822,-10.665 -23.822,-23.822 0,-13.156 10.665,-23.822 23.822,-23.822 13.157,0 23.822,10.666 23.822,23.822 0,13.157 -10.665,23.822 -23.822,23.822"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8347"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8349"
+         transform="translate(376.912,1278.6903)">
+        <path
+           d="m 0,0 c -5.06,0 -9.162,4.102 -9.162,9.162 0,5.06 4.102,9.162 9.162,9.162 5.06,0 9.162,-4.102 9.162,-9.162 C 9.162,4.102 5.06,0 0,0 m 0,32.984 c -13.157,0 -23.822,-10.665 -23.822,-23.822 0,-13.156 10.665,-23.822 23.822,-23.822 13.157,0 23.822,10.666 23.822,23.822 0,13.157 -10.665,23.822 -23.822,23.822"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8351"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 841.672,216.833 -14.645,0 0,7.322 14.645,0 0,-7.322 z"
+         style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path8353"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 894.56,216.833 -26.444,0 0,7.322 26.444,0 0,-7.322 z"
+         style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path8355"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g8357"
+         transform="translate(829.2512,1289.0775)">
+        <path
+           d="m 0,0 -1.888,7.079 16.569,4.42 1.888,-7.08 L 0,0 Z m -56.599,-15.103 -1.888,7.08 28.3,7.551 1.887,-7.079 -28.299,-7.552 z m -56.599,-15.102 -1.888,7.079 28.3,7.551 1.887,-7.079 -28.299,-7.551 z m -56.599,-15.096 -1.888,7.08 28.3,7.544 1.887,-7.08 -28.299,-7.544 z m -56.603,-15.102 -1.888,7.079 28.3,7.551 1.888,-7.079 -28.3,-7.551 z m -56.599,-15.103 -1.888,7.079 28.3,7.552 1.888,-7.08 -28.3,-7.551 z"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8359"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8361"
+         transform="translate(204.3493,949.0712)">
+        <path
+           d="M 0,0 -7.773,28.239 -0.715,30.184 7.058,1.945 0,0 Z m 15.546,-56.478 -7.773,28.239 7.058,1.945 7.773,-28.239 -7.058,-1.945 z m 15.546,-56.484 -7.773,28.239 7.058,1.945 7.773,-28.239 -7.058,-1.945 z"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8363"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8365"
+         transform="translate(290.8642,666.3072)">
+        <path
+           d="m 0,0 c -5.664,-1.217 -11.427,-2.457 -17.479,-3.758 l -1.174,-9.653 c 3.972,0.983 8.078,1.828 12.922,2.91 -0.861,-8.95 -1.327,-17.216 -2.523,-25.375 -1.458,-9.945 -8.604,-14.84 -17.657,-18.286 l 2.384,59.054 -34.61,0 -1.559,0 -34.609,0 2.384,-59.054 c -9.054,3.446 -16.2,8.341 -17.658,18.286 -1.195,8.159 -1.662,16.425 -2.522,25.375 4.844,-1.082 8.95,-1.927 12.922,-2.91 l -1.174,9.653 c -6.052,1.301 -11.816,2.541 -17.48,3.758 0,-11.878 0.067,-23.224 -0.018,-34.569 -0.094,-12.717 6.584,-20.688 17.672,-25.642 3.058,-1.366 6.187,-2.576 9.228,-3.976 1.274,-0.587 2.552,-1.323 3.577,-2.265 4.919,-4.525 9.522,-9.426 14.68,-13.652 5.546,-4.545 6.154,-5.393 4.5,-12.524 -2.38,-10.257 -9.095,-17.031 -17.775,-22.257 -5.311,-3.198 -8.452,-7.923 -9.441,-14.008 -0.509,-3.136 0.455,-4.687 4.218,-4.67 10.498,0.05 20.997,0.014 31.496,-0.04 l 0,-0.006 c 0.26,0.002 0.52,0.002 0.78,0.003 0.26,-0.001 0.519,-0.001 0.779,-0.003 l 0,0.006 c 10.499,0.054 20.998,0.09 31.496,0.04 3.764,-0.017 4.728,1.534 4.218,4.67 -0.988,6.085 -4.13,10.81 -9.441,14.008 -8.68,5.226 -15.395,12 -17.774,22.257 -1.655,7.131 -1.047,7.979 4.5,12.524 5.158,4.226 9.76,9.127 14.68,13.652 1.024,0.942 2.302,1.678 3.576,2.265 3.042,1.4 6.171,2.61 9.229,3.976 11.087,4.954 17.766,12.925 17.671,25.642 C -0.067,-23.224 0,-11.878 0,0"
+           style="fill:#fdc30d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path8367"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="475.52646"
+     y="591.08466"
+     id="text7973-7-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7975-5-2"
+       x="475.52646"
+       y="591.08466"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1">Horizontal scale on demand</tspan></text>
+  <path
+     style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:4.48066473;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608);marker-end:url(#marker8696)"
+     d="m 590.97974,420.4373 0,-83.278"
+     id="path8606"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:4.48066473;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-2);marker-end:url(#marker8696-9)"
+     d="m 758.49867,420.4373 0,-83.2781"
+     id="path8606-3"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:4.48066473;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-6);marker-end:url(#marker8696-2)"
+     d="m 674.73923,420.4373 0,-83.278"
+     id="path8606-31"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:4.48066473;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-9);marker-end:url(#marker8696-7)"
+     d="m 198.95577,374.5638 83.27802,0"
+     id="path8606-4"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="78.023293"
+     y="453.08939"
+     id="text7973-7-5"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7975-5-0"
+       x="78.023293"
+       y="453.08939"
+       style="font-size:28.00415421px;text-align:center;text-anchor:middle;fill:#565656;fill-opacity:1">Backoffice</tspan><tspan
+       sodipodi:role="line"
+       x="78.023293"
+       y="488.09464"
+       style="font-size:28.00415421px;text-align:center;text-anchor:middle;fill:#565656;fill-opacity:1"
+       id="tspan12923">Application</tspan></text>
+  <g
+     id="g15470"
+     transform="matrix(0.44806648,0,0,0.44806648,253.96652,-57.3526)"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088">
+    <path
+       inkscape:connector-curvature="0"
+       id="path8606-31-6"
+       d="m 570.00359,1802.9752 0,-185.8609"
+       style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-6-3);marker-end:url(#marker8696-2-1)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8606-31-5"
+       d="m 1062.1127,1802.9752 0,-185.8609"
+       style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-6-32);marker-end:url(#marker8696-2-6)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8606-31-56"
+       d="m 1308.1673,1802.9752 0,-185.8609"
+       style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-6-5);marker-end:url(#marker8696-2-7)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8606-31-2"
+       d="m 816.05816,1802.9752 0,-185.8609"
+       style="fill:#4a5c70;fill-opacity:1;fill-rule:evenodd;stroke:#4a5c70;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8608-6-9);marker-end:url(#marker8696-2-74)" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 47.241656,331.1179 0,9.2607 -4.630382,0 0,-9.2607 4.630382,0 z m 6.945577,-9.2608 0,18.5215 -4.630382,0 0,-18.5215 4.630382,0 z m 18.521527,20.8367 0,2.3152 -37.043054,0 0,-27.7823 2.315191,0 0,25.4671 34.727863,0 z m -11.57595,-16.2063 0,13.8911 -4.630382,0 0,-13.8911 4.630382,0 z m 6.945564,-6.9456 0,20.8367 -4.630373,0 0,-20.8367 4.630373,0 z"
+     id="path15319"
+     style="fill:#565656;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 103.236,332.0215 8.50683,8.5069 q -1.65151,1.6826 -3.85612,2.6174 -2.2046,0.9348 -4.65071,0.9348 -3.256265,0 -6.006184,-1.6047 -2.749918,-1.6048 -4.354686,-4.3547 -1.604773,-2.7499 -1.604773,-6.0062 0,-3.2563 1.604773,-6.0062 1.604768,-2.7499 4.354686,-4.3547 2.749919,-1.6047 6.006184,-1.6047 l 0,11.8721 z m 2.91352,0.093 12.04355,0 q 0,2.4461 -0.93482,4.6507 -0.93482,2.2046 -2.61749,3.8561 z m 11.04641,-1.9943 -11.96565,0 0,-11.9656 q 3.25628,0 6.00619,1.6047 2.74992,1.6048 4.35468,4.3547 1.60478,2.7499 1.60478,6.0062 z"
+     id="path15369"
+     style="fill:#565656;fill-opacity:1"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <g
+     id="g15623"
+     transform="matrix(0.44806648,0,0,0.44806648,271.94925,-57.3526)"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088">
+    <path
+       style="fill:#4a5c70;fill-opacity:1"
+       id="path15512"
+       d="m 1153.4331,2050.5849 q 0,-4.0921 -2.914,-7.0061 -2.914,-2.914 -7.0061,-2.914 -4.092,0 -7.0061,2.914 -2.914,2.914 -2.914,7.0061 0,4.092 2.914,7.0061 2.9141,2.914 7.0061,2.914 4.0921,0 7.0061,-2.914 2.914,-2.9141 2.914,-7.0061 z m 25.7923,-19.8403 0,-87.297 q 0,-1.6121 -1.178,-2.7901 -1.178,-1.178 -2.79,-1.178 l -63.4888,0 q -1.612,0 -2.79,1.178 -1.178,1.178 -1.178,2.7901 l 0,87.297 q 0,1.6121 1.178,2.7901 1.178,1.178 2.79,1.178 l 63.4888,0 q 1.612,0 2.79,-1.178 1.178,-1.178 1.178,-2.7901 z m -23.8082,-105.1533 q 0,-1.984 -1.9841,-1.984 l -19.8402,0 q -1.984,0 -1.984,1.984 0,1.9841 1.984,1.9841 l 19.8402,0 q 1.9841,0 1.9841,-1.9841 z m 35.7124,-1.984 0,126.9776 q 0,6.4481 -4.7121,11.1601 -4.712,4.7121 -11.1601,4.7121 l -63.4888,0 q -6.4481,0 -11.1601,-4.7121 -4.7121,-4.712 -4.7121,-11.1601 l 0,-126.9776 q 0,-6.4481 4.7121,-11.1601 4.712,-4.7121 11.1601,-4.7121 l 63.4888,0 q 6.4481,0 11.1601,4.7121 4.7121,4.712 4.7121,11.1601 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#4a5c70;fill-opacity:1"
+       id="path15556"
+       d="m 835.36525,2013.3911 0,-122.46 q 0,-1.6583 -1.2118,-2.8702 -1.2119,-1.2118 -2.8702,-1.2118 l -204.1001,0 q -1.6583,0 -2.8701,1.2118 -1.2119,1.2119 -1.2119,2.8702 l 0,122.46 q 0,1.6583 1.2119,2.8702 1.2118,1.2118 2.8701,1.2118 l 204.1001,0 q 1.6583,0 2.8702,-1.2118 1.2118,-1.2119 1.2118,-2.8702 z m 16.328,-122.46 0,122.46 q 0,8.4191 -5.9954,14.4146 -5.9955,5.9954 -14.4146,5.9954 l -93.886,0 0,16.328 44.902,0 q 1.7859,0 2.934,1.1481 1.148,1.148 1.148,2.9339 l 0,8.164 q 0,1.7859 -1.148,2.9339 -1.1481,1.1481 -2.934,1.1481 l -106.132,0 q -1.786,0 -2.934,-1.1481 -1.1481,-1.148 -1.1481,-2.9339 l 0,-8.164 q 0,-1.7859 1.1481,-2.9339 1.148,-1.1481 2.934,-1.1481 l 44.902,0 0,-16.328 -93.8861,0 q -8.4191,0 -14.4145,-5.9954 -5.9955,-5.9955 -5.9955,-14.4146 l 0,-122.46 q 0,-8.4191 5.9955,-14.4146 5.9954,-5.9954 14.4145,-5.9954 l 204.1001,0 q 8.4191,0 14.4146,5.9954 5.9954,5.9955 5.9954,14.4146 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#4a5c70;fill-opacity:1"
+       id="path15600"
+       d="m 982.8081,2048.4305 q 0,-3.6617 -2.6758,-6.3375 -2.6758,-2.6758 -6.3375,-2.6758 -3.66157,0 -6.33747,2.6758 -2.6758,2.6758 -2.6758,6.3375 0,3.6616 2.6758,6.3375 2.6759,2.6758 6.33747,2.6758 3.6617,0 6.3375,-2.6758 2.6758,-2.6759 2.6758,-6.3375 z m 54.0798,-22.5333 0,-135.1994 q 0,-1.8309 -1.3379,-3.1688 -1.3379,-1.3379 -3.1687,-1.3379 l -117.17287,0 q -1.8308,0 -3.1688,1.3379 -1.3379,1.3379 -1.3379,3.1688 l 0,135.1994 q 0,1.8309 1.3379,3.1688 1.338,1.3379 3.1688,1.3379 l 117.17287,0 q 1.8308,0 3.1687,-1.3379 1.3379,-1.3379 1.3379,-3.1688 z m 18.0266,-135.1994 0,153.226 q 0,9.295 -6.6191,15.9141 -6.6192,6.6192 -15.9141,6.6192 l -117.17287,0 q -9.295,0 -15.9141,-6.6192 -6.6192,-6.6191 -6.6192,-15.9141 l 0,-153.226 q 0,-9.295 6.6192,-15.9141 6.6191,-6.6192 15.9141,-6.6192 l 117.17287,0 q 9.2949,0 15.9141,6.6192 6.6191,6.6191 6.6191,15.9141 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40.64037323px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1166.1106"
+     y="842.87897"
+     id="text7951-3"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       id="tspan7953-0"
+       x="1166.1106"
+       y="842.87897"
+       style="font-size:28.00415421px;fill:#565656;fill-opacity:1">Connected Clients</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#565656;stroke-width:2.68839884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-6-7-8)"
+     d="m 1156.0868,295.6618 -324.72651,0.067"
+     id="path4471-6-6-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#565656;stroke-width:2.68839884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-6-7-8-3)"
+     d="m 1156.0868,218.1688 -307.87841,0.067"
+     id="path4471-6-6-4-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#565656;stroke-width:2.68839884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-6-7-8-9)"
+     d="m 1156.0867,490.9088 -202.69779,0.067"
+     id="path4471-6-6-4-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#565656;stroke-width:2.68839884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-6-7-8-6)"
+     d="m 1156.0868,832.3725 -323.76375,0.067"
+     id="path4471-6-6-4-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.92265892px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4a5c70;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="676.00403"
+     y="719.06879"
+     id="text7973-7-5-2"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/media/D/owncloud_backup/p2b_utils/Entreprises/Carrefour/images/p2b_cloud.png"
+     inkscape:export-xdpi="72.01088"
+     inkscape:export-ydpi="72.01088"><tspan
+       sodipodi:role="line"
+       x="676.00403"
+       y="719.06879"
+       style="font-size:28.00415421px;text-align:center;text-anchor:middle;fill:#4a5c70;fill-opacity:1"
+       id="tspan12923-6">API</tspan></text>
+</svg>
