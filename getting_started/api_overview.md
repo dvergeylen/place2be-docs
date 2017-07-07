@@ -81,7 +81,43 @@ ws.send(JSON.stringify( {
   <p>where uid is the unique identifier you use to identify the player playing.</p>
   
   <h1 class="title is-3">Case 1: activation_success</h1>
+  <p>If the time slot you selected includes the moment you make the request, you should experience an "activation_success" response. </p>
+  <div class="code-container" markdown="1">
+  ```json
+{
+	"type": "activation_success",
+	"payload": {
+		"name": "Support!",
+		"categories": [],
+		"score": true,
+		"created_at": 1499442706
+	}
+}
+  ```
+  </div>
+
+
   <h1 class="title is-3">Case 2: activation_failure</h1>
+  <p>If the time slot you selected as a valid time period isn't including the moment you made the request, you should experience an "activation_failure" response. The response details which condition set (called Relation) was invalidating the activation request and the first condition that made it impossible to grant validation.</p>
+  <div class="code-container" markdown="1">
+  ```json
+{
+	"type": "activation_failure",
+	"payload": {
+		"message": "Could not validate at least one group of conditions",
+		"reason": "All conditions may not have been evaluated if validator detected \
+		           minimum number of required conditions couldn't be reached anymore",
+		"conditions": "[{\"display_order\":0,\"end_date\":1499547600,\"order\":0,
+		              \"start_date\":1499526000,\"type\":\"time_period\"},
+		              {\"display_order\":1,\"end_date\":1500152400,\"order\":1,
+		              \"start_date\":1500130800,\"type\":\"time_period\"}]",
+		"failed_relation": "4z5dYYKwXK23Sm",
+		"unmet_conditions_indexes": [0, 1]
+	}
+}
+  ```
+  </div>
+  
   <h1 class="title is-3">Case 3: game_error</h1>
   <p>Game error response has nothing to do with Condition Sets validations but with invalid activate frame. Many possible errors can occur (see troubleshooting documentation section for an exhaustive list of possible errors) but the more likely in this example is an incorrect activable id. The response will then be something like this (ymmv):</p>
   <div class="code-container" markdown="1">
