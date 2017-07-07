@@ -11,7 +11,7 @@ nice_title: P2B - Quick Start API
   <ul>
     <li>Authenticating by receiving a valid token</li>
     <li>Opening a websocket connection</li>
-    <li>Sending an activation request ('activate) via the opened connection</li>
+    <li>Sending an activation request ('<i>activate</i>') via the opened connection</li>
     <li>Receiving success or failure, according to player meetings the requirements or not</li>
   </ul>
   <p>It assumes you followed the <a href="{{ site.baseurl }}/getting_started/gui_overview">Quick Start Gamification Scheme</a> tutorial and will start from there to explain the API basics.</p>

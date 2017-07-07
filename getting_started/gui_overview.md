@@ -74,7 +74,7 @@ nice_title: P2B - Quick Start Gamification Scheme
   <ul>
     <li>You can learn more about Activables (soon)</li>
     <li>You can learn more about Condition Sets (soon)</li>
-    <li>You can learn more about the API on how to make your players activate Activables (soon)</li>
+    <li>You can <a href="{{ site.baseurl }}/getting_started/api_overview">learn more about the API</a> on how to make your players activate Activables (soon)</li>
     <li>You can learn more about Live Metrics and how to send instant aggregated feedback to your players (soon)</li>
     <li>You can learn more how to set up more complex Gamification Scheme from lessons we learned from business cases (soon)</li>
   </ul>
