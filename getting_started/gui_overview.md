@@ -14,12 +14,12 @@ nice_title: P2B - Quick Start Gamification Scheme
     <li>Defining one Condition Set with one Condition in it</li>
   </ul>
   <h1 class="title is-3">Create new Gamification Scheme</h1>
-  <p>Creating a new Gamification Scheme couldn't be easier. Simply encode a name (you can always change it later) in the 'New Game' text field on your dashboard and hit the 'Create' button! For instance, let's create a new Gamification Scheme called "Football Fan Loyalty Program":</p>
+  <p>Creating a new Gamification Scheme couldn't be easier. Simply encode a name (you can always change it later) in the 'New Gamification Scheme' text field on your dashboard and hit the 'Create' button! For instance, let's create a new Scheme called "Football Fan Loyalty Program":</p>
   <figure class="image has-text-centered figure-printscreen">
     <img class="is-hcentered" src="{{ site.baseurl }}/assets/images/gui_overview/create_new_game.png" alt=""/>
     <figcaption class="is-hcentered">Fig1. - Create a new Gamification scheme by entering a name and hitting Create button.</figcaption>
   </figure>
-  <p>Your freshly created Game should be displayed, including two tabs to populate the scheme and to get the credentials for API communication.</p>
+  <p>Your freshly created Gamification Scheme should be displayed, including two tabs to populate the scheme and to get the credentials for API communication.</p>
   
   <figure class="image has-text-centered figure-printscreen">
     <img class="is-hcentered" src="{{ site.baseurl }}/assets/images/gui_overview/new_game_created.png" alt=""/>
