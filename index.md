@@ -17,6 +17,8 @@ nice_title: P2B - Docs
 </div>
 
 <h3 class="title is-3">What is a Gamification Scheme?</h3>
-<p>A Gamification Scheme is defined as a collection of <a href="{{ site.baseurl }}/place2be_in_practice/activables">Activables</a> (linked or not between each others) that Players can activate and/or unlock.</p>
+<div class="post-content">
+  <p>A Gamification Scheme is defined as a collection of <a href="{{ site.baseurl }}/place2be_in_practice/activables">Activables</a> (linked or not to each other) that Players can activate and/or unlock.</p>
 
-<p>You define the scheme, Players tries to progress accross it and Place2Be computes the mechanics in between.</p>
+  <p>You define the scheme, Players tries to progress accross it, and Place2Be computes the mechanics in between.</p>
+</div>
