@@ -73,9 +73,9 @@ nice_title: P2B - Quick Start Gamification Scheme
   <h1 class="title is-3">Next Steps</h1>
   <p>You have defined a new Gamification Team, with one Activable and one Condition Set. This is minimal process but Place2Be can do much more than that!</p>
   <ul>
+    <li>You can <a href="{{ site.baseurl }}/getting_started/api_overview">learn more about the API</a> on how to make your players activate Activables</li>
     <li>You can <a href="{{ site.baseurl }}/place2be_in_practice/activables">learn more about Activables</a></li>
     <li>You can learn more about Condition Sets (soon)</li>
-    <li>You can <a href="{{ site.baseurl }}/getting_started/api_overview">learn more about the API</a> on how to make your players activate Activables (soon)</li>
     <li>You can learn more about Live Metrics and how to send instant aggregated feedback to your players (soon)</li>
     <li>You can learn more how to set up more complex Gamification Scheme from lessons we learned from business cases (soon)</li>
   </ul>
