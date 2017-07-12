@@ -19,7 +19,7 @@ nice_title: P2B - Quick Start API
   <p>Quick access to most useful features can be found in the "Dev. Cheat Sheet" tab of every Gamification Schemes. Links to appropriate Documentation is always given when needed.</p>
 
   <h1 class="title is-3">Authenticating</h1>
-  <p>Although the <a href="javascript:void(0)">Authenticating</a> documentation page describes proper ways to authenticate via the API, we'll stick with a simple cURL request to get a first token (valid 60 minutes).</p>
+  <p>Although the <a href="{{ site.baseurl }}/getting_started/authentication">Authenticating</a> documentation page describes proper ways to authenticate via the API, we'll stick with a simple cURL request to get a first token (valid 60 minutes).</p>
   <p>From your Dashboard, hit the 'Dev. Cheat Sheet' button from one of your Gamification Schemes. You should see two pairs of API keys, one for production and one for testing purposes. As we are exporing the API, let's use the Test API key pair.</p>
 
   <figure class="image has-text-centered figure-printscreen">

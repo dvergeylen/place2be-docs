@@ -13,6 +13,7 @@ nice_title: P2B - Quick Start Gamification Scheme
     <li>Creating one Activable</li>
     <li>Defining one Condition Set with one Condition in it</li>
   </ul>
+
   <h1 class="title is-3">Create new Gamification Scheme</h1>
   <p>Creating a new Gamification Scheme couldn't be easier. Simply encode a name (you can always change it later) in the 'New Gamification Scheme' text field on your dashboard and hit the 'Create' button! For instance, let's create a new Scheme called "Football Fan Loyalty Program":</p>
   <figure class="image has-text-centered figure-printscreen">
@@ -29,7 +30,7 @@ nice_title: P2B - Quick Start Gamification Scheme
   <h1 class="title is-4">Optional: check API Keys creation</h1>
   <p>You can check the Gamification Scheme has been successfully created by hitting the 'Dev. Cheat Sheet' tab. You should see two pairs of API keys. More information about how to use these keys to connect to the API can be found in the <a href="{{ site.baseurl }}/getting_started/api_overview">Quick Start API</a> section.</p>
   <h1 class="title is-3">Create new Activable</h1>
-  <p>Your Gamification Scheme is now created but is still empty. You have to populate it with <i>Activables</i>. <i>Activables</i> are items your players will activate (!). They represent either Actions or Rewards players will achieve or receive, depending on the requirements you associate with (called Conditions). As this may seem complicated by now, it will become clear in a minute.</p>
+  <p>Your Gamification Scheme is now created but is still empty. You have to populate it with <a href="{{ site.baseurl }}/place2be_in_practice/activables">Activables</a>. Activables are items your players will activate (!). They represent either Actions or Rewards players will achieve or receive, depending on the requirements you associate with (called Conditions). As this may seem complicated by now, it will become clear in a minute.</p>
 
   <p>To create your first new Activable, start by hitting the 'Scheme' button. This should normally list all the current Activables defined for this Gamification Scheme but as you don't have one already, it will simply display a sentence telling you so.</p>
   <figure class="image has-text-centered figure-printscreen">
@@ -72,7 +73,7 @@ nice_title: P2B - Quick Start Gamification Scheme
   <h1 class="title is-3">Next Steps</h1>
   <p>You have defined a new Gamification Team, with one Activable and one Condition Set. This is minimal process but Place2Be can do much more than that!</p>
   <ul>
-    <li>You can learn more about Activables (soon)</li>
+    <li>You can <a href="{{ site.baseurl }}/place2be_in_practice/activables">learn more about Activables</a></li>
     <li>You can learn more about Condition Sets (soon)</li>
     <li>You can <a href="{{ site.baseurl }}/getting_started/api_overview">learn more about the API</a> on how to make your players activate Activables (soon)</li>
     <li>You can learn more about Live Metrics and how to send instant aggregated feedback to your players (soon)</li>
