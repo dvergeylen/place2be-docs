@@ -40,7 +40,7 @@ nice_title: P2B - Activables
       </tr>
       <tr>
         <th class="has-text-right">Scoretype</th>
-        <td class="vertically-aligned-td">This is probably the most important attribute. It defines what kind of score a Player does when she tries to acitvate the Activable. Four types are available:
+        <td class="vertically-aligned-td">This is probably the most important attribute. It defines what kind of score a Player does when she tries to activate the Activable. Four types are available:
           <table>
             <tbody>
               <tr>
@@ -49,7 +49,7 @@ nice_title: P2B - Activables
               </tr>
               <tr>
                 <th class="has-text-right">Integer</th>
-                <td class="vertically-aligned-td">Score must be either a valid integer (0, 1, 2, 3). Negative scores are also allowed. Float scores that could be casted to Integer (e.g: 10.0) are rejected.</td>
+                <td class="vertically-aligned-td">Score must be either a valid integer (0, 1, 2, 3, ...). Negative scores are also allowed. Float scores that could be casted to Integer (e.g: 10.0) are <i>rejected</i>.</td>
               </tr>
               <tr>
                 <th class="has-text-right">Duration</th>
@@ -57,12 +57,12 @@ nice_title: P2B - Activables
               </tr>
               <tr>
                 <th class="has-text-right">Float</th>
-                <td class="vertically-aligned-td">Scores that allowes floating numbers (e.g: 10.23).</td>
+                <td class="vertically-aligned-td">Scores that allows floating numbers (e.g: 10.23).</td>
               </tr>
             </tbody>
           </table>
           
-          <p class="warning">Scoretype can't be updated after Activable creation.</p>
+          <p class="warning">Scoretype attribute can't be updated after Activable creation.</p>
         </td>
       </tr>
       <tr>
@@ -70,6 +70,7 @@ nice_title: P2B - Activables
         <td class="vertically-aligned-td">
           <p>Check that box for Activables that MUST be activated in name of a Team.</p>
           <p>Providing a team_id when activating is always allowed even if team required attribute is unchecked but Live Metrics aggregating by teams might return incomplete results on these Activables (as some Players might not belong to Teams).</p>
+          <p class="warning">Team Required attribute can't be updated after Activable creation.</p>
         </td>
       </tr>
       <tr>
