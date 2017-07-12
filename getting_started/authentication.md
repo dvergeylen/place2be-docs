@@ -66,7 +66,7 @@ pip install websockets
 
 
   <h1 class="title is-3">Getting a valid Json Web Token (JWT)</h1>
-  <p>Asking for a token is making a POST request to <strong>https://api.place2be.io/grantmeaccess</strong> giving API credentials (key + secret).
+  <p>Asking for a token is making a POST request to <strong>https://api.place2be.io/grantmeaccess</strong> giving API credentials (key + secret).</p>
 
   <h1 class="title is-4">Bad : Client side request</h1>
   
@@ -152,4 +152,5 @@ ws.send(JSON.stringify( {
 ```
 </div>
 
-<p>And that's it! Client should now be able to send request and receive Live Metrics.</p>
+  <p>And that's it! Client should now be able to send request and receive Live Metrics.</p>
+</div>
