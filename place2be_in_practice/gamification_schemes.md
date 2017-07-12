@@ -29,7 +29,9 @@ nice_title: P2B - Games
   </figure>
 
   <h1 class="title is-3">Deleting a Gamification Scheme</h1>
-  <p>The "Edit" button depicted on Fig. 2 allows you to update the Gamification Scheme name and to Delete it. Use this with Caution as deleting a scheme is <strong>irreversible</strong>!</p>
+  <p>The "Edit" button depicted on Fig. 2 allows you to update the Gamification Scheme name and to Delete it.</p>
+
+  <p class="warning">Use this with Caution as deleting a scheme is <strong>irreversible</strong>!</p>
 </div>
 
 

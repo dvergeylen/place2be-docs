@@ -15,7 +15,7 @@ nice_title: P2B - Authentication
   </ol>
   <p>When using the free plan, one isn't obliged to authenticate before starting interaction (although strongly recommended). Using a Premium plan requires you to authenticate before sending data's as they will be ignored otherwise to avoid spurious requests (hacking).</p>
 
-  <p>All connections MUST be opened via SSL (TLS). Unsecured connections will be ignored by the API.</p>
+  <p class="warning">All connections MUST be opened via SSL (TLS). Unsecured connections will be ignored by the API.</p>
 
 
 
@@ -131,7 +131,10 @@ fetch('https://api.place2be.io/grantmeaccess', {
 
   <h1 class="title is-3">Opening Websocket connection</h1>
   <p>A <strong>websocket</strong> connection is basically an http connection upgraded via HTTP 101 request.</p>
-  <p>The connection has to be done from the client to <strong>wss://api.place2be.io</strong>, with a valid Token.<br /><i>Notice the use of <strong>wss://</strong> instead of <strong>ws://</strong>, requiring the use of SSL (TLS)</i>.<br /><strong>Unsecured connection are ignored by the API</strong>.</p>
+  <p>The connection has to be done from the client to <strong>wss://api.place2be.io</strong>, with a valid Token.</p>
+
+  <p class="warning"><i>Notice the use of <strong>wss://</strong> instead of <strong>ws://</strong>, requiring the use of SSL (TLS)</i>.<br /><strong>Unsecured connection are ignored by the API</strong>.</p>
+
   <p>Client side code opening a connection could be implemented as the following:</p>
 
 
