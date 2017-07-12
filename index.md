@@ -15,3 +15,8 @@ nice_title: P2B - Docs
   <p>The application is two sided, an online interface to create the Gamification Schemes (GUI) and a websocket API for the media (apps, websites, ...) to interact in realtime.</p>
   <p>The funny thing is that creating and updating Schemes don't require programming skills and is instantly updated to 100% of your interacting clients. :-)</p>
 </div>
+
+<h3 class="title is-3">What is a Gamification Scheme?</h3>
+<p>A Gamification Scheme is defined as a collection of <a href="{{ site.baseurl }}/place2be_in_practice/activables">Activables</a> (linked or not between each others) that Players can activate and/or unlock.</p>
+
+<p>You define the scheme, Players tries to progress accross it and Place2Be computes the mechanics in between.</p>
