@@ -2,6 +2,7 @@
 layout: home
 title: "gamification_schemes"
 nice_title: P2B - Games
+description: Learn how to create a basic Gamification Scheme with only 1 Activable and a condition Set (+ the signification of "Activable" ;-) )
 ---
 
 <h1 class="title is-1">Creating Gamification Schemes</h1>

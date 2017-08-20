@@ -2,6 +2,7 @@
 layout: home
 title: "activables"
 nice_title: P2B - Activables
+description: Learn how to create the basic blocs of a Gamification Scheme aka Activables
 ---
 
 <h1 class="title is-1">Creating Activables</h1>

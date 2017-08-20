@@ -8,6 +8,12 @@
     <title>{% if page.nice_title %}{{ page.nice_title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
+    <meta property="og:title" content="{{ page.nice_title | escape }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}Combine simple to complex mechanics to create gamified loyalty programs at large scale{% endif %}" />
+    <meta property="og:site_name" content="Place2Be.io  Documentation" />
+    <meta property="og:image" content="http://doc.place2be.io/assets/images/p2b.png" />
+
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">

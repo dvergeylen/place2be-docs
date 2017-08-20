@@ -2,6 +2,7 @@
 layout: home
 title: "authentication"
 nice_title: P2B - Authentication
+description: How to authenticate to P2B API the easy way
 ---
 
 <h1 class="title is-1">Authenticating to P2B API</h1>

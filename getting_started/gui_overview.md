@@ -2,6 +2,7 @@
 layout: home
 title: "gui_overview"
 nice_title: P2B - Quick Start Gamification Scheme
+description: 5min. tutorial to learn how to create a basic Gamification Scheme via Place2Be.io
 ---
 
 <h1 class="title is-1">Quick Start Gamification Scheme</h1>

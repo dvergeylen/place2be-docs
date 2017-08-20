@@ -2,6 +2,7 @@
 layout: home
 title: "api_overview"
 nice_title: P2B - Quick Start API
+description: 5min. tutorial to learn how to interact with P2B API (and a bunch about websockets ;-) )
 ---
 
 <h1 class="title is-1">Quick Start API Guide</h1>
